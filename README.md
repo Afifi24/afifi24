@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-animation-gamma.vercel.app/](https://portfolio-animation-gamma.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://portfolio-animation-gamma.vercel.app/](https://portfolio-animation-gamma.vercel.app/)
 
 - 💬 Ask me about **react**
 

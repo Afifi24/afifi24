@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afifi Brahim</h1>
-<h3 align="center">A passionate frontend developer from Mrocco</h3>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 <img align='right' alt='coding' width='400' src='https://tse2.mm.bing.net/th?id=OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj&pid=Api&P=0'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afifi24&label=Profile%20views&color=0e75b6&style=flat" alt="afifi24" /> </p>

@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 👨‍💻 Some of my projects are available at [https://portfolio-animation-gamma.vercel.app/](https://www.brahimafifi.com/)
+- 👨‍💻 Some of my projects are available at [https://www.brahimafifi.com]
 
-- 💬 Ask me about **react, NextJs and NodeJs **
+- 💬 Ask me about **React, NextJs and NodeJs **
 
 - 📫 How to reach me **afifi71brahim@gmail.com**
 

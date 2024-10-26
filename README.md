@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Afifi Brahim</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate FullStack Developer from Morocco</h3>
 <img align='right' alt='coding' width='400' src='https://tse2.mm.bing.net/th?id=OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj&pid=Api&P=0'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afifi24&label=Profile%20views&color=0e75b6&style=flat" alt="afifi24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 Some of my projects are available at [https://portfolio-animation-gamma.vercel.app/](https://portfolio-animation-gamma.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://portfolio-animation-gamma.vercel.app/](https://www.brahimafifi.com/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, NextJs and NodeJs **
 
 - 📫 How to reach me **afifi71brahim@gmail.com**
 
